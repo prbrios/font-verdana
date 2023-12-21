@@ -3,9 +3,9 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.github.prbrios</groupId>
-  <artifactId>font-verdana</artifactId>
-  <version>2.0.0</version>
-  <name>font-verdana</name>
+  <artifactId>font-dejavusansmono</artifactId>
+  <version>1.0.0</version>
+  <name>font-dejavusansmono</name>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.7</maven.compiler.source>

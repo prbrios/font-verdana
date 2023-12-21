@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fontFamilies>
+	<fontFamily name="DejaVuSansMono">
+		<normal><![CDATA[fonts/DejaVuSansMono/DejaVuSansMono.ttf]]></normal>
+		<bold><![CDATA[fonts/DejaVuSansMono/DejaVuSansMono-Bold.ttf]]></bold>
+		<italic><![CDATA[fonts/DejaVuSansMono/DejaVuSansMono-Oblique.ttf]]></italic>
+		<boldItalic><![CDATA[fonts/DejaVuSansMono/DejaVuSansMono-BoldOblique.ttf]]></boldItalic>
+		<pdfEncoding><![CDATA[Cp1252]]></pdfEncoding>
+		<pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+		<exportFonts/>
+	</fontFamily>
+</fontFamilies>
